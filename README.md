@@ -1,5 +1,5 @@
 "# certs_QA_develop_Python" 
-# Ñertificates
+# Certificates
 •	Basics of Git - https://gb.ru/certificates/993637 
 •	Linux. Administration of clients - https://gb.ru/certificates/1125262
 •	Fundamentals of relational databases. MySQL - https://gb.ru/certificates/872470
