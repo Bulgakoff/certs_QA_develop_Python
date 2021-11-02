@@ -1,18 +1,3 @@
-# -*- coding: utf-8 -*-
 "# certs_QA_develop_Python" 
-—ертификаты:
-Х	Git. Ѕазовый курс - https://gb.ru/certificates/993637 
-Х	Linux. –абоча€ станци€ - https://gb.ru/certificates/1125262
-Х	ќсновы рел€ционных баз данных. MySQL - https://gb.ru/certificates/872470
-Х	јлгоритмы и структуры данных на Python - https://gb.ru/certificates/952649
-Х	HTML/CSS. »нтерактивный курс - https://gb.ru/certificates/989253
-Х	Ѕазовый курс JavaScript - https://gb.ru/certificates/1123728
-Х	ќсновы Django Framework - https://gb.ru/certificates/1085147
-Х	Django Framework. »нструменты оптимизации - https://gb.ru/certificates/1135908
-Х	Django REST framework - https://gb.ru/certificates/1449734
-Х	 лиент-серверные приложени€ на Python - https://gb.ru/certificates/1197793
-Х	Ѕазы данных и PyQT - https://gb.ru/certificates/1449723
-Х	јрхитектура и шаблоны проектировани€ на Python - https://gb.ru/certificates/1272456
-Х	 омпьютерные сети - https://gb.ru/certificates/950274
-Х	јвтоматизаци€ тестировани€  - https://stepik.org/cert/1182490
+
 
