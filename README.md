@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 "# certs_QA_develop_Python" 
 Сертификаты:
 •	Git. Базовый курс - https://gb.ru/certificates/993637 
