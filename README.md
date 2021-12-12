@@ -14,4 +14,5 @@
 •	Architecture and design patterns in Python - https://gb.ru/certificates/1272456
 •	Computer networks - https://gb.ru/certificates/950274
 •	Test automation  - https://stepik.org/cert/1182490
+•	Course «Agile/Scrum - https://gb.ru/certificates/1553040.en
 
